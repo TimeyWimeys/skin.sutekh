@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- BINGIE -->
-<addon id="skin.titan.bingie.mod" version="2.2.1" name="Titan BINGIE MOD" provider-name="AchillesPunks, Matke">
+<addon id="skin.sutekh" version="0.0.1" name="TimeyWimeys's Sutekh skin" provider-name="TimeyWimeys">
 	<requires>
 		<import version="5.17.0" addon="xbmc.gui"/>
 		<import addon="script.bingie.helper" version="1.1.2"/>
@@ -21,17 +21,17 @@
 		<res width="1920" height="1200" aspect="16:10" default="false" folder="xml" />
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Titan BINGIE MOD... The new Bingie Mod skin for Kodi Omega.</summary>
-		<description>Bingie Mod is back for Kodi Omega with the new NETFLIX layout!</description>
+		<summary lang="en_GB">Sutekh, a port of the Titan Bingie Mod skin for Doctor Who fanatics.</summary>
+		<summary lang="nl_NL">Sutekh, een port van de Titan Bingie Mod skin voor Doctor Who fanaten.
+		<description lang="en_GB">A special skin to experience the Whoniverse in the comfort of your own home.</description>
+		<description lang="en_GB">Een speciale skin om de Whoniverse te ervaren in het comfort van je eigen huis.</description>
 		<platform>all</platform>
 		<license>GPL v2.0</license>
-		<forum>https://forum.kodi.tv/showthread.php?tid=355993</forum>
-		<website>https://forum.kodi.tv/showthread.php?tid=355993</website>
 		<email></email>
-		<source>https://github.com/AchillesPunks/skin.titan.bingie.mod/</source>
+		<source>https://github.com/TimeyWimeys/skin.sutekh</source>
 		<assets>
 			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
+			<fanart>resources/fanart.png</fanart>
 			<screenshot>resources/screenshot000.jpg</screenshot>
 			<screenshot>resources/screenshot001.jpg</screenshot>
 			<screenshot>resources/screenshot002.jpg</screenshot>
@@ -44,7 +44,7 @@
 			<screenshot>resources/screenshot009.jpg</screenshot>
 		</assets>
 		<news>
-			[B]Titan BINGIE MOD v2[/B][CR]Follow the forum thread about the latest news for the skin.[CR]https://forum.kodi.tv/showthread.php?tid=355993
+			[B]The One Who Waits is back![/B][CR]Powered on the Titan Bingie Mod, this is extremely WIP![CR]
 		</news>
 	</extension>
 </addon>
